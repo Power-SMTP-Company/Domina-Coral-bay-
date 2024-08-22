@@ -79,12 +79,13 @@ Read Parameters:
 Fifth API: Arrival
 
 Endpoint:
+https://api.dominacoralbay.cloud/v2/arrivals.php
 
 Read Parameters:
 - `type=R`
 - `license_key=demo`
 
 Write Parameters:
-- 'confirmno='
-- 'lastname='
+- 'confirmno= for example 2682782'
+- 'lastname= for example castiello'
 - 'Voucher_no='
