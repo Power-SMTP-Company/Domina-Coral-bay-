@@ -20,3 +20,6 @@ Forth API: to read the Guest in House by room number.
 Endpoint:
 https://api.dominacoralbay.cloud/v2/guestinhouse.php
 
+Fifth API:
+Endpoint:
+https://api.dominacoralbay.cloud/v2/arrivals.php
