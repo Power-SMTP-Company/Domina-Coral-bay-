@@ -74,3 +74,17 @@ https://api.dominacoralbay.cloud/v2/guestinhouse.php
 Read Parameters:
 - `license_key=demo`
 - `room` -> Room Number
+
+
+Fifth API: Arrival
+
+Endpoint:
+
+Read Parameters:
+- `type=R`
+- `license_key=demo`
+
+Write Parameters:
+- 'confirmno='
+- 'lastname='
+- 'Voucher_no='
