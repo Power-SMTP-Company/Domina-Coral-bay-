@@ -3,7 +3,7 @@ List of all APIs:
 
 **Data**: 
 Endpoint: `https://api.dominacoralbay.cloud/v2/data.php`
-Specifications: [Data API](/APIs%20Details.md#L21) 
+Specifications: [Data API](/APIs%20Details.md?plain=1#L21) 
 
 
 
