@@ -21,6 +21,6 @@ Endpoint:
 https://api.dominacoralbay.cloud/v2/guestinhouse.php
 
 
-Fifth API: for arrivals
+Fifth API: for arrivals.
 Endpoint:
 'https://api.dominacoralbay.cloud/v2/arrivals.php?type=R&license_key=demo&confirmno=2682782&lastname=castiello&Voucher_no='
