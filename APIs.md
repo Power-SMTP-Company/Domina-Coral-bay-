@@ -11,18 +11,18 @@ List of all APIs:
 ### Arrivals API: 
 **Description**: Read and write Arrivals.  
 **Endpoint**: `https://api.dominacoralbay.cloud/v2/arrivals.php`  
-**Specifications**: [Arrivals Specs](/APIs%20Details.md?plain=1#L15) 
+**Specifications**: [Arrivals Specs](/APIs%20Details.md?plain=1#L16) 
 
 ---
 
 ### Billing API:
 **Description**: Read and write billing information.  
 **Endpoint**: `https://api.dominacoralbay.cloud/v2/billing.php`  
-**Specifications**: [Billing Specs](/APIs%20Details.md?plain=1#L47)
+**Specifications**: [Billing Specs](/APIs%20Details.md?plain=1#L50)
 
 ---
 
 ### Guest in House API:
 **Description**: Read the Guest in House by room number.  
 **Endpoint**: `https://api.dominacoralbay.cloud/v2/guestinhouse.php`  
-**Specifications**: [Guest in House Specs](/APIs%20Details.md?plain=1#L69)
+**Specifications**: [Guest in House Specs](/APIs%20Details.md?plain=1#L73)
