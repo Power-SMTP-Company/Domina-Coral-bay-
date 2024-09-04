@@ -1,9 +1,9 @@
-**First API**: This API retrieves all the arrivals and Guest in House data, along with Country codes, Region Codes, and Nationality Codes. Note that you can't insert any codes into Opera except those built into it.
+First API: This API retrieves all the arrivals and Guest in House data, along with Country codes, Region Codes, and Nationality Codes. Note that you can't insert any codes into Opera except those built into it.
 
 Endpoint:
 `https://api.dominacoralbay.cloud/v2/data.php`
 
-**Parameters**:
+Parameters:
 - `license_key=demo`
 - `list=` (values can be: Arrivals, gih, Country)
 
