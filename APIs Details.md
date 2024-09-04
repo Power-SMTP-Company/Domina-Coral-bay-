@@ -58,7 +58,11 @@ Write Parameters:
 - `type=W`
 - `amount - > in EGP`
 -  ´method -> CC, RC, Cash ... etc. as built in the Opera System`
-	@@ -66,11 +70,12 @@ Write Parameters:
+- `license_key=demo`
+- `tc_group name` -> like SPA, Outlet, Retail, Other, etc.
+- `tc` -> Transaction code
+- `tax_code1` -> for example Tax transaction code 14%
+- `tax_code2` -> for example Tax transaction code 10%
 - `tax_code3` -> for example Tax transaction code 1%
 
 
