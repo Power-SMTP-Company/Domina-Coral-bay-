@@ -33,7 +33,14 @@ Parameters:
 - `type=W` -> to Write
 - `license_key=demo`
 - `last` -> Last Name
-	@@ -44,17 +46,19 @@ Parameters:
+- `first` -> First Name
+- `gender` -> Gender
+- `nationality` -> Nationality Code as built in the Opera
+- `region` -> Region Code as built in the Opera
+- `birth_date` -> Birthdate
+- `name_id` -> Mandatory to select the right data
+- `country` -> Country Code as built in the Opera
+- `ID_NUMBER` -> Passport Number Or ID Number
 - `Email` -> Email Address
 - `Phone` -> Phone Number
 
