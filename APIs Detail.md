@@ -73,4 +73,30 @@ https://api.dominacoralbay.cloud/v2/guestinhouse.php
 
 Read Parameters:
 - `license_key=demo`
-- `room` -> Room Number
+- `room` -> Room Number or 'confirmno' -> Confirmation Number
+
+
+Fifth API: to read the Reservation Info
+Endpoint:
+https://api.dominacoralbay.cloud/v2/Reservation.php
+
+
+Read Parameters:
+- `type=R`
+- `license_key=demo`
+- `resv_name_id` -> Reservation ID
+
+Write Parameters:
+LAST_NAME 
+FIRST_NAME
+TYPE
+ID -> Passport Number Or ID Number
+CONFIRMATION_NO
+ROOM_NO
+ROOM_CATEGORY
+ROOM_TYPE
+HOTEL
+MEAL
+BEGIN_DATE
+END_DATE
+RESERVATION_STATUS
